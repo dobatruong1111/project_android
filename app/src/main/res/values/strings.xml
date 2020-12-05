@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pj CTPPM</string>
+    <string name="title_search">Search</string>
+    <string name="title_thongbao">Thông Báo</string>
+    <string name="name_item">Name Item</string>
+    <string name="ten_dd">Android Studio</string>
+    <string name="note_dd">android_studio@gmail.com</string>
+    <string name="themcv">Thêm Công Việc</string>
+    <string name="them">Tên Công Việc</string>
+    <string name="btthem">Thêm</string>
+    <string name="cancel">Hủy</string>
+</resources>
